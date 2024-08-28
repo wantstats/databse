@@ -1,0 +1,1235 @@
+{
+  "_id": {
+    "$oid": "66b4a59b0d30944339e4c105"
+  },
+  "title_prefix": "Global",
+  "title_suffix": "market",
+  "approved": true,
+  "isPdf": false,
+  "isExcel": false,
+  "isDoc": false,
+  "isAnalytics": false,
+  "title": "trial chemical",
+  "category": "tech",
+  "vertical": "EnP",
+  "me": {
+    "bifurcationLevel": 1,
+    "dataMetrics": "Value",
+    "status": "NOT STARTED",
+    "_id": {
+      "$oid": "66b4a59b0d30944339e4c106"
+    },
+    "start_year": 2018,
+    "end_year": 2030,
+    "base_year": 2022,
+    "segment": [],
+    "geo_segment": [],
+    "createdAt": {
+      "$date": "2024-08-08T11:01:48.078Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-08T11:01:48.078Z"
+    }
+  },
+  "tocList": [
+    {
+      "section_id": 1,
+      "section_name": "MARKET ESTIMATION",
+      "section_key": "MARKET_ESTIMATION",
+      "urlpattern": "market-estimation",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 2,
+      "section_name": "EXECUTIVE SUMMARY",
+      "section_key": "EXECUTIVE_SUMMARY",
+      "urlpattern": "executive-summary",
+      "is_main_section_only": true
+    },
+    {
+      "section_id": 3,
+      "section_name": "MARKET INTRODUCTION",
+      "section_key": "MARKET_INTRODUCTION",
+      "urlpattern": "market-introduction",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 4,
+      "section_name": "RESEARCH METHODOLOGY",
+      "section_key": "RESEARCH_METHODOLOGY",
+      "urlpattern": "other-module",
+      "is_main_section_only": true
+    },
+    {
+      "section_id": 5,
+      "section_name": "MARKET DYNAMICS",
+      "section_key": "MARKET_DYNAMICS",
+      "urlpattern": "market-dynamics",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 6,
+      "section_name": "MARKET FACTOR ANALYSIS",
+      "section_key": "MARKET_FACTOR_ANALYSIS",
+      "urlpattern": "market-factor-analysis",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 7,
+      "section_name": "POWER SECTOR OVERVIEW",
+      "section_key": "POWER_SECTOR_OVERVIEW",
+      "urlpattern": "power-sector-overview",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 8,
+      "section_name": "OIL AND GAS SECTOR OVERVIEW",
+      "section_key": "OIL_GAS_SECTOR_OVERVIEW",
+      "urlpattern": "oil-gas-overview",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 9,
+      "section_name": "COMPETITIVE LANDSCAPE",
+      "section_key": "COMPETITIVE_LANDSCAPE",
+      "urlpattern": "competitive-landscape",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 10,
+      "section_name": "COMPANY PROFILES",
+      "section_key": "COMPANY_PROFILES",
+      "urlpattern": "company-profile",
+      "is_main_section_only": false
+    },
+    {
+      "section_id": 11,
+      "section_name": "APPENDIX",
+      "section_key": "APPENDIX",
+      "urlpattern": "appendix",
+      "is_main_section_only": true
+    }
+  ],
+  "owner": {
+    "$oid": "63b40d427af692143e3801c0"
+  },
+  "status": [
+    {
+      "main_section_id": 2,
+      "status": "started"
+    },
+    {
+      "main_section_id": 3,
+      "status": "started"
+    },
+    {
+      "main_section_id": 6,
+      "status": "started"
+    },
+    {
+      "main_section_id": 9,
+      "status": "started"
+    },
+    {
+      "main_section_id": 10,
+      "status": "started"
+    }
+  ],
+  "titles": [],
+  "toc": [
+    {
+      "status": "NOT STARTED",
+      "_id": {
+        "$oid": "66b4a68b0d30944339e4c109"
+      },
+      "section_id": "2",
+      "section_name": "Executive Summary",
+      "main_section_id": 2,
+      "content": [
+        {
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "jkgcunjkyhnioipo"
+          }
+        }
+      ],
+      "updatedAt": {
+        "$date": "2024-08-08T11:05:47.352Z"
+      },
+      "createdAt": {
+        "$date": "2024-08-08T11:05:47.352Z"
+      }
+    },
+    {
+      "status": "NOT STARTED",
+      "_id": {
+        "$oid": "66b4a69a0d30944339e4c10b"
+      },
+      "section_id": "3.1",
+      "section_name": "Market Introduction",
+      "main_section_id": 3,
+      "section_pid": "3",
+      "meta_info": {
+        "section_key": "definition",
+        "section_value": "Definition"
+      },
+      "content": [
+        {
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "jkhdijsoj"
+          }
+        }
+      ],
+      "updatedAt": {
+        "$date": "2024-08-08T11:06:02.422Z"
+      },
+      "createdAt": {
+        "$date": "2024-08-08T11:06:02.422Z"
+      }
+    },
+    {
+      "status": "NOT STARTED",
+      "_id": {
+        "$oid": "66b4a6a70d30944339e4c10c"
+      },
+      "section_id": "3.3",
+      "section_name": "Market Introduction",
+      "main_section_id": 3,
+      "section_pid": "3",
+      "meta_info": {
+        "section_key": "assumptions",
+        "section_value": "List of assumptions"
+      },
+      "content": [
+        {
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "bjou'lpoicuik,;ol"
+          }
+        }
+      ],
+      "updatedAt": {
+        "$date": "2024-08-08T11:06:15.122Z"
+      },
+      "createdAt": {
+        "$date": "2024-08-08T11:06:15.122Z"
+      }
+    },
+    {
+      "status": "NOT STARTED",
+      "_id": {
+        "$oid": "66b4a6d60d30944339e4c10e"
+      },
+      "section_id": "6.1",
+      "section_name": "Porters",
+      "main_section_id": 6,
+      "section_pid": "6",
+      "meta_info": {
+        "section_key": "porter",
+        "section_value": "Porter's 5 Forces"
+      },
+      "content": [
+        {
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<b>usnjn</b><div>tgxajiokxhaixjxolkxh hcnxhbcjcnxjh</div>"
+          }
+        }
+      ],
+      "meta": {
+        "type": "PORTERS",
+        "data": [
+          {
+            "name": "Capital requirement to gain entry",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Retaliation by existing companies to new player entry",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Legal barriers to market entry",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Brand value effect",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Product/service differentiation",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Ease of access to raw material suppliers and market distributors",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Effect of economies of scale",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Ease of ROI achievement",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Effect of Government regulations",
+            "type": "Threat of New Entrants",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Number of suppliers as compared to market players",
+            "type": "Bargaining Power of Suppliers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Total market share of top players",
+            "type": "Bargaining Power of Suppliers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Market concentration/fragmentation",
+            "type": "Bargaining Power of Suppliers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Raw material availability",
+            "type": "Bargaining Power of Suppliers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Market players' cost to switch supplier",
+            "type": "Bargaining Power of Suppliers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Ability of suppliers to integrate forward",
+            "type": "Bargaining Power of Suppliers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Number of buyers as compared to market players",
+            "type": "Bargaining Power of Buyers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Concentration of buyers/end-users",
+            "type": "Bargaining Power of Buyers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Buyer's cost of switching product/service provider",
+            "type": "Bargaining Power of Buyers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Availability of product/service substitutes",
+            "type": "Bargaining Power of Buyers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Price sensitivity",
+            "type": "Bargaining Power of Buyers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Ability of buyers' to integrate backwards",
+            "type": "Bargaining Power of Buyers",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Availability of product/service substitutes",
+            "type": "Threat of Substitutes",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Performance of substitutes/alternatives",
+            "type": "Threat of Substitutes",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Number of market players",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Exit barriers",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Market size and growth rate/Market potential",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Product/service differentiation",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Total market share of top players",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Brand value effect",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          },
+          {
+            "name": "Threat of horizontal integration",
+            "type": "Segment Rivalry",
+            "dataType": "default",
+            "rating": 0
+          }
+        ],
+        "impact": [
+          {
+            "name": "Threat of New Entrants",
+            "impact": "high"
+          },
+          {
+            "name": "Bargaining Power of Suppliers",
+            "impact": "low"
+          },
+          {
+            "name": "Bargaining Power of Buyers",
+            "impact": "high"
+          },
+          {
+            "name": "Threat of Substitutes",
+            "impact": "high"
+          },
+          {
+            "name": "Segment Rivalry",
+            "impact": "high"
+          }
+        ]
+      },
+      "updatedAt": {
+        "$date": "2024-08-08T11:07:02.127Z"
+      },
+      "createdAt": {
+        "$date": "2024-08-08T11:07:02.127Z"
+      }
+    },
+    {
+      "status": "NOT STARTED",
+      "_id": {
+        "$oid": "66b4a6f60d30944339e4c110"
+      },
+      "section_id": "9.2",
+      "section_name": "Competitive Landscape",
+      "main_section_id": 9,
+      "section_pid": "9",
+      "meta_info": {
+        "section_key": "marketAnalysis",
+        "section_value": "Market Share/Strategy/Ranking Analysis"
+      },
+      "content": [
+        {
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "klxnjhnlnsbUchsmpiosCp'<div>[iohjkchcihjoc jojnuihokuiho kkuhsilsjuioas jkmhioj</div>"
+          }
+        }
+      ],
+      "updatedAt": {
+        "$date": "2024-08-08T11:07:34.902Z"
+      },
+      "createdAt": {
+        "$date": "2024-08-08T11:07:34.902Z"
+      }
+    }
+  ],
+  "cp": [
+    {
+      "_id": {
+        "$oid": "66bae2010d30944339e4c143"
+      },
+      "company_id": {
+        "$oid": "66bae1ff0d30944339e4c142"
+      },
+      "company_name": "JOSKIN",
+      "swot_analysis": [
+        {
+          "key": "STRENGTH",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "FTA tech in PrevEx analyzers offers universal solvent respons"
+            },
+            {
+              "index_id": "2",
+              "name": "SCIMA provides full service: consulting, commissioning, training, maintenance, repair"
+            }
+          ]
+        },
+        {
+          "key": "WEAKNESS",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "SCIMA offers training, but yearly service requires their technicians, increasing customer dependence and potentially raising costs"
+            },
+            {
+              "index_id": "2",
+              "name": "FTA's benefits may be limited by SCIMA's lack of diverse monitoring technologies compared to competitors"
+            }
+          ]
+        },
+        {
+          "key": "OPPORTUNITIES",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Rising demand in industrial process monitoring presents an opportunity for SCIMA's growth"
+            },
+            {
+              "index_id": "2",
+              "name": "Integrating new technologies with FTA could broaden SCIMA's application reach"
+            }
+          ]
+        },
+        {
+          "key": "THREAT",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Established competitors and new monitoring technologies threaten SCIMA's market share"
+            },
+            {
+              "index_id": "2",
+              "name": "New process monitoring advancements cozmake SCIMA's products outdated"
+            }
+          ]
+        }
+      ],
+      "company_overview": [
+        {
+          "_id": {
+            "$oid": "66c4348d0d30944339e4c17a"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Headquarters</b>:</span> <span lang=\"EN-US\">Soumagne, Liège<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Founded</b>:</span> <span lang=\"EN-US\">1968<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Workforce</b>:</span> <span lang=\"EN-US\">~ 200 employees</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Primary Industry</b>: </span><span class=\"BoldTextChar\"><span style=\"mso-ascii-font-family:&quot;Roboto Condensed&quot;;\nmso-ascii-theme-font:minor-latin;mso-hansi-font-family:&quot;Roboto Condensed&quot;;\nmso-hansi-theme-font:minor-latin;color:windowtext;mso-bidi-font-weight:bold\">Manufacture\nof machinery and equipment for agriculture</span></span><b><span lang=\"EN-US\" style=\"mso-ascii-font-family:&quot;Roboto Condensed&quot;;\nmso-ascii-theme-font:minor-latin;mso-hansi-font-family:&quot;Roboto Condensed&quot;;\nmso-hansi-theme-font:minor-latin;color:#0F577D;mso-themecolor:accent2;\nmso-themeshade:191\"><o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Working</b>: <o:p></o:p></span></p>\n\n<span class=\"BoldTextChar\"><span style=\"font-size:10.0pt;mso-bidi-font-size:11.0pt;\nline-height:130%;mso-ascii-font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-font-family:&quot;Roboto Condensed&quot;;mso-hansi-theme-font:minor-latin;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;\ncolor:windowtext;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-weight:\nbold\">Since its founding in 1968 by Victor Joskin as an agricultural\ncontractor, JOSKIN has expanded its operations, establishing its Soumagne site\nin 1972 and adding retail and repair of agricultural equipment by 1973. Import\nactivities began in 1974, leading to the formation of Société Anonyme Ets.\nJOSKIN in 1983. The company launched its first slurry spreader in 1984 and\nexpanded with SCIMASA in 1988, a site in Trzcianka in 1999, and a Bourges\nfactory in 2002. SPAW TECH was founded in Andrimont in 2007. In 2013, JOSKIN\nacquired Leboulch, and in 2022, announced plans for a new factory in\nEsch-sur-Alzette, Luxembourg</span></span>"
+          }
+        }
+      ],
+      "key_development": [
+        {
+          "_id": {
+            "$oid": "66bb072f0d30944339e4c145"
+          },
+          "order_id": 1,
+          "type": "TABLE",
+          "data": {
+            "title": "JOSKIN : Key Development",
+            "source": "MRFR Analysis",
+            "rows": 6,
+            "columns": [
+              "Date",
+              "Approach",
+              "Development"
+            ],
+            "dataStore": [
+              {
+                "Date": "May 2024",
+                "Approach": "Trade Fair",
+                "Development": " The \"Zielone Agro Show 2024\" took place on May 18-19 at the Moto-Park airfield in Ułęż, Poland, showcasing cutting-edge silage equipment and slurry tankers for dairy cattle breeders. The event featured 160 exhibitors and attracted 30,000 visitors, with highlights including field demonstrations of 40 tractor-machine combinations and notable interest in JOSKIN machines. Favourable weather contributed to the success of this year's show, marking it as a significant event for the agricultural community."
+              },
+              {
+                "Date": "December 2023",
+                "Approach": "Expansion",
+                "Development": " The construction of the new JOSKIN ESA factory in Luxembourg, initially delayed by permit issues, is now progressing smoothly and is set to be operational by the third quarter of 2025. The facility will enhance production of large tipping trailers and muck spreaders."
+              },
+              {
+                "Date": "November 2023",
+                "Approach": "Expansion",
+                "Development": " La Vieille-Lyre is expanding with a new 6,000 m² building to boost production capacity by 40%, aiming to double annual output of Leboulch tipping trailers and muck spreaders. The project is set for completion by the end of 2024."
+              },
+              {
+                "Date": "October 2023",
+                "Approach": "Trade Fair",
+                "Development": " The Bednary trade show featured 694 exhibitors and over 80,000 visitors, with significant interest from young farmers and discussions on advanced slurry spreading methods and environmental schemes like ECO-SCHEMES. Joskin showcased 37 machines, including new models like the 28-t Ferti-SPACE2 HORIZON H8014/28TR muck spreader and the 26,000-l Tetraliner ADTL26000V/3-22 slurry tanker, reinforcing their market presence in Poland and generating positive sales impacts."
+              },
+              {
+                "Date": "June 2023",
+                "Approach": "Trade Fair",
+                "Development": " Opolagra 2023, held from 16th to 18th June at Kamień Śląski airport, showcased agricultural machinery and products amid strong visitor turnouts. JOSKIN featured three machines, including popular Modulo2 tankers and the versatile Ferti-Space 6511BU Horizon muck spreader, reflecting interest in eco-schemes and cost-effective farming amid industry challenges."
+              },
+              {
+                "Date": "June",
+                "Approach": "Trade Fair",
+                "Development": " The Zielone Agro Show 2023 highlighted dairy equipment and silage machines, drawing 30,000 visitors and featuring 50 tractor-machine demonstrations. JOSKIN's ADV18000V/2-22 Volumetra and ADV20000/1-21 slurry tanker showcased technical innovations, aligning with Green Pact policies and reflecting strong business opportunities in dairy farming technologies."
+              }
+            ]
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "_id": {
+            "$oid": "66bb07d90d30944339e4c146"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Joskin not only\nmanufactures agricultural machinery but also provides comprehensive support\nthroughout the lifecycle of their products. They offer expert consultation\nduring the design phase to recommend efficient systems compliant with\nregulations. Their installation process includes training and optimizing\nequipment integration. Joskin provides tailored preventative maintenance plans\nwith delegated tasks post-training. Complex maintenance and safety systems\nundergo annual service and functionality checks by SCIMA technicians. They\noffer remote support for issue diagnosis, reducing onsite visits. Skilled\ntechnicians prioritize onsite repairs and maintain a stocked inventory of spare\nparts for quick delivery. Joskin ensures reliable and safe operation through\ntheir commitment to selling spare parts and servicing agricultural machinery</span>"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66bb085c0d30944339e4c148"
+      },
+      "company_id": {
+        "$oid": "66bb08590d30944339e4c147"
+      },
+      "company_name": "Bavaria Yachts",
+      "swot_analysis": [
+        {
+          "key": "STRENGTH",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Bavaria Yachts boasts a powerful brand reputation. Bavaria Yachts is a well-established company with a reputation for quality and innovation (evident in awards like \"European Yacht of the Year\" and nominations for various other awards)."
+            },
+            {
+              "index_id": "2",
+              "name": "Bavaria Yachts has a lineup of well-regarded sailing and motor yachts. Their C-Line and SR-Line yachts are popular for features like spacious interiors, focus on comfort, performance, innovative design, and focus on deck space for socializing"
+            }
+          ]
+        },
+        {
+          "key": "WEAKNESS",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Their success might be tied to the performance of boat shows, which can be impacted by external factors. Bavaria Yachts' success is linked to their performance at boat shows, which serve as crucial marketing and sales platforms. These events can be affected by external factors such as economic downturns, unfavorable weather conditions, or global crises like pandemics. Consequently, any disruption in boat show attendance or success can directly impact Bavaria Yachts' sales and brand visibility"
+            },
+            {
+              "index_id": "2",
+              "name": "The discontinuation of the VISION 42 line might indicate challenges in adapting to dealer or customer preferences. The discontinuation of the VISION 42 line could suggest that Bavaria Yachts is facing difficulties in aligning their product offerings with dealer and customer preferences. This may indicate a gap in market research or responsiveness to consumer demands. As a result, it could lead to a loss of customer loyalty and a decline in market share. Additionally, it might signal internal challenges in product development and innovation"
+            }
+          ]
+        },
+        {
+          "key": "OPPORTUNITIES",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "The \"BAVARIA Yacht Configurator\" suggests they're embracing digital tools to enhance customer experience. Bavaria Yachts ups its game with a digital yacht configurator!  This online tool lets customers personalize their dream yacht, boosting sales and customer satisfaction in a tech-driven market."
+            },
+            {
+              "index_id": "2",
+              "name": "Opening a new sales office in China highlights an opportunity for further growth in the Asian market. Bavaria Yachts opens a China office to capture Asia's growing luxury yacht market. This local presence allows them to connect with customers, boost sales, and cater to their preferences"
+            }
+          ]
+        },
+        {
+          "key": "THREAT",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Strong competition from established players like Beneteau and Jeanneau could limit market share growth. Bavaria Yachts faces difficulty in established rivals like Beneteau and Jeanneau. These competitors boast strong brands, wide distribution networks, and loyal customers, making market share expansion tougher. Their constant innovation and marketing further crowd Bavaria Yachts' growth potential"
+            },
+            {
+              "index_id": "2",
+              "name": "Global supply chain disruptions could affect production or delivery timelines. Global supply chain problems threaten Bavaria Yachts. Material shortages, shipping delays, and political tensions could slow production and delivery. This could hurt customer satisfaction, their competitive edge, and ultimately, their profits"
+            }
+          ]
+        }
+      ],
+      "company_overview": [
+        {
+          "_id": {
+            "$oid": "66bb08a30d30944339e4c14a"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Headquarters</b>:</span> <span lang=\"EN-US\">Giebelstadt, Bayern</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Founded</b>:</span> <span lang=\"EN-US\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1978</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Workforce</b>:</span> <span lang=\"EN-US\">~ </span><span lang=\"EN-US\">2,300\n</span><span lang=\"EN-US\">employes</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Primary Industry</b>: </span><span lang=\"EN-US\">Sailing Yachts, Motorboats, and\nCatamarans</span><span class=\"BoldTextChar\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Working</b>: <o:p></o:p></span></p>\n\n<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:\n130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:minor-latin;\nmso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:minor-latin;\nmso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">For over four\ndecades, Bavaria Yachts has established itself as a leader in marine\ninnovation. From their headquarters in Giebelstadt, Germany, their team of\nexperts leverages a rich heritage in boat construction with cutting-edge design\nand engineering. This focus on three pillars – deep knowledge, innovative\nengineering, and meticulous craftsmanship – distinguishes Bavaria Yachts. Their\ncommitment to quality is evident in the meticulous selection of materials and\nthe application of advanced techniques throughout the manufacturing process.\nThe result: a portfolio of exceptional sailing yachts, motorboats, and\ncatamarans, each meticulously crafted to deliver the ultimate yachting\nexperience for the global recreational boating market</span>"
+          }
+        }
+      ],
+      "key_development": [
+        {
+          "_id": {
+            "$oid": "66bb0b220d30944339e4c14c"
+          },
+          "order_id": 1,
+          "type": "TABLE",
+          "data": {
+            "title": "Bavaria Yachts: Top Competitors",
+            "source": "MRFR Analysis",
+            "rows": 2,
+            "columns": [
+              "Date",
+              "Approach",
+              "Development"
+            ],
+            "dataStore": [
+              {
+                "Date": "January 2023",
+                "Approach": "Product Launch",
+                "Development": "BAVARIA YACHTS is showcasing the all-new BAVARIA C46 yacht at the 2023 Yachting Festival in Cannes. This next-generation C-LINE model boasts innovative features and has been nominated for the prestigious 2024 European Yacht of the Year Award. The BAVARIA C46 occurs to be a well-rounded yacht designed to appeal to a wide range of sailors with its blend of comfort, performance, and innovative features."
+              },
+              {
+                "Date": "January 2023",
+                "Approach": "Product Launch",
+                "Development": "Bavaria Yachts unveiled their new motor yacht, the BAVARIA SR33, at the 2023 boot show in Düsseldorf. This yacht prioritizes deck space for relaxation and socializing, with a well-equipped galley in the cockpit. It also offers a convertible sun lounger and an ergonomic helm station. Below deck, the open layout provides ample light and space for up to 6 people to sleep comfortably."
+              }
+            ]
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "_id": {
+            "$oid": "66bb0db50d30944339e4c152"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Bavaria Yachts\nleverages a branched approach to drive sales and market share. Product\ndevelopment is a key focus, with new models like the C46 and SR36 catering to\nspecific customer needs and maintaining a fresh product portfolio. Their\ndedication to quality and innovation is reflected in awards like \"European\nYacht of the Year,\" further shaping their brand image. Bavaria Yachts has\nestablished a strong global presence through a network of dealers and\nparticipation in major boat shows. This allows them to showcase their yachts to\na wide audience and connect with potential customers worldwide. Recognizing the\ngrowing Asian market, they've strategically opened a new sales office in China,\ndemonstrating their commitment to expansion. Building customer loyalty is\nanother pillar of their strategy. Bavaria Yachts prioritizes high-quality\nmanufacturing and offers customer service initiatives like workshops, fostering\ntrust and long-term relationships. Additionally, the introduction of the\n\"BAVARIA Yacht Configurator\" highlights their embrace of digital\ntools to enhance customer experience.&nbsp; By\nfocusing on product development, market expansion, and customer focus, Bavaria\nYachts positions itself for continued success in the competitive yachting\nindustry. There's always room for improvement, and areas like increased\nfinancial transparency and website optimization could further strengthen their\nbrand and reach</span>"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66bb117b0d30944339e4c154"
+      },
+      "company_id": {
+        "$oid": "66bb11790d30944339e4c153"
+      },
+      "company_name": "Krones",
+      "swot_analysis": [
+        {
+          "key": "STRENGTH",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Krones excels by offering comprehensive solutions covering the entire production line for beverages and liquid food"
+            },
+            {
+              "index_id": "2",
+              "name": "Diverse Beverage and Food Technology Solutions Expertise characterizes Krones' deep understanding of various beverage and food categories"
+            }
+          ]
+        },
+        {
+          "key": "WEAKNESS",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Their focus on beverage and liquid food production makes them susceptible to downturns in those industries"
+            },
+            {
+              "index_id": "2",
+              "name": "The wide range of products and customization options might lead to complexities for smaller companies seeking simpler solutions"
+            }
+          ]
+        },
+        {
+          "key": "OPPORTUNITIES",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Expanding into growing markets and leveraging rising global consumption enhances growth opportunities"
+            },
+            {
+              "index_id": "2",
+              "name": "Integrating eco-friendly solutions and digital innovations boosts Krones' competitive edge and operational efficiency"
+            }
+          ]
+        },
+        {
+          "key": "THREAT",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Competition from established players"
+            },
+            {
+              "index_id": "2",
+              "name": "Economic downturns impacting sales"
+            }
+          ]
+        }
+      ],
+      "company_overview": [
+        {
+          "_id": {
+            "$oid": "66bb12080d30944339e4c156"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Headquarters</b>:</span> <span lang=\"EN-US\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Neutraubling, Bavaria</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Founded</b>:</span> <span lang=\"EN-US\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1951</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Workforce</b>:</span> <span lang=\"EN-US\">~ 10001</span><span lang=\"EN-US\">\n</span><span lang=\"EN-US\">employes</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Primary Industry</b>: </span><span lang=\"EN-US\">Krones</span><span lang=\"EN-US\"> operates in the packaging and bottling\nmachinery industry.</span><span class=\"BoldTextChar\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Working</b>:</span><b><span lang=\"EN-US\" style=\"mso-ascii-font-family:\n&quot;Roboto Condensed&quot;;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:&quot;Roboto Condensed&quot;;\nmso-hansi-theme-font:minor-latin;color:#0F577D;mso-themecolor:accent2;\nmso-themeshade:191\"><o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Krones is a global leader in the packaging and bottling machinery\nindustry. They design, manufacture, and install complete production lines for a\nwide range of beverages and food products. From brewing equipment and\nfiltration systems to bottling, canning, labeling, and palletizing\ntechnologies, Krones offers a comprehensive solution for efficient and\nsustainable production processes. Their expertise extends beyond just beverage\nproduction, encompassing food and dairy, chemicals, pharmaceuticals, cosmetics,\nand both alcoholic and non-alcoholic beverage sectors. <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Krones attributes its success to several key strategies.&nbsp; First, they combine extensive mechanical\nengineering knowledge with a deep understanding of their customers' specific\nneeds across various industries. Second, a strong commitment to research and\ndevelopment ensures their technology remains cutting-edge, with over 7,050\npatents granted and pending serving as a testament to their innovative\nspirit.&nbsp; Third, Krones prioritizes\nexceptional quality by utilizing state-of-the-art equipment in their manufacturing\nfacilities throughout Germany. Finally, a highly skilled workforce provides\n24/7 global support, ensuring optimal performance of their clients' production\nlines wherever they operate. <o:p></o:p></span></p>\n\n<span lang=\"EN-US\" style=\"font-size: 10pt; line-height: 130%; font-family: &quot;Roboto Condensed&quot;; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Krones' global reach extends far beyond their\nGerman headquarters. With regional offices strategically located throughout the\nAmericas, Europe, Asia-Pacific, the Middle East, and Africa, they are\nwell-positioned to serve a diverse clientele. This global presence allows them\nto be a key partner for companies across various sectors, helping them achieve\nefficient and sustainable production of beverages and food products</span>"
+          }
+        }
+      ],
+      "key_development": [
+        {
+          "_id": {
+            "$oid": "66bb2c950d30944339e4c157"
+          },
+          "order_id": 1,
+          "type": "TABLE",
+          "data": {
+            "title": "Krones : Key Developments",
+            "source": "Press Releases and MRFR Analysis",
+            "rows": 3,
+            "columns": [
+              "Date",
+              "Approach",
+              "Development"
+            ],
+            "dataStore": [
+              {
+                "Date": "May 2024\t",
+                "Approach": "Partnership",
+                "Development": "In May, the company signed an agreement with SCS and Tomra to test a new recycling process for XPS food trays."
+              },
+              {
+                "Date": "April 2024",
+                "Approach": "Expansion",
+                "Development": "In April, the company signed an agreement to acquire a 45% stake in Perfinox - IndUstria MetalUrgica, S.A."
+              },
+              {
+                "Date": "April 2024",
+                "Approach": "Product Launch",
+                "Development": "In April, the company announced its plans to introduce a new generation of dry containers, KRONE Dry Box, with ten enhancements."
+              }
+            ]
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "_id": {
+            "$oid": "66bb2f630d30944339e4c15c"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Krones leverages a\nmulti-pronged approach to drive growth and solidify its market position.\nAcquisitions are a key pillar of their strategy.&nbsp; Examples like Ampco Pumps in the US and\nNetstal, a manufacturer of injection molding machines, demonstrate their focus\non expanding their product portfolio and market reach.&nbsp; This allows them to offer a wider range of\nsolutions and cater to new customer segments like the medical/pharmaceutical,\ncosmetics, and food industries.&nbsp;\nFurthermore, Krones is on track to surpass its initial financial targets\nset in 2021. They anticipate achieving their 2025 revenue target of €5 billion\nby 2024, a year ahead of schedule, and reaching their 2025 EBITDA margin target\nrange as well. This strong financial performance is attributed to their\ntalented workforce. Krones recognizes its employees' flexibility, creativity,\nand motivation as key drivers of success.&nbsp;\nThe company fosters a culture of innovation, aiming to deliver\n\"Solutions beyond tomorrow\" that exceed customer expectations.&nbsp; Sustainability is another core value for\nKrones. Their vision focuses on providing \"Sustainable and affordable\nbeverages, food and essentials for everyone and everywhere,\" highlighting\ntheir commitment to long-term environmental responsibility. Krones' Supervisory\nBoard kept a firm hand on strategy in 2023. They prioritized good governance,\naddressing a compliance lapse to maintain standards. Data security remained a\nfocus, with updates on efforts to protect Krones' systems and products. Sustainability\nprogress was reviewed, underlining their environmental and social goals.&nbsp; Growth and global expansion were key, with\nplans to increase market reach presented. The board explored opportunities in\ndigitalization and AI, looking to future-proof the company. Finally, risk\nmanagement remained a priority, and the 2024 budget was approved, reflecting\ntheir focus on financial planning. These meetings showcase Krones' commitment\nto a well-rounded strategy for long-term success</span>"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66bb31fd0d30944339e4c15d"
+      },
+      "company_id": {
+        "$oid": "605b34fbe583523e55dfaf63"
+      },
+      "company_name": "Damen Shipyards Group",
+      "swot_analysis": [
+        {
+          "key": "STRENGTH",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "New products like rotor systems and Optima Nozzles prove their commitment to cutting-edge maritime technology"
+            },
+            {
+              "index_id": "2",
+              "name": "Custom rudders for the German Navy and energy-efficient equipment for Chile showcase their ability to tailor offerings to specific client needs."
+            }
+          ]
+        },
+        {
+          "key": "WEAKNESS",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Focus on established regions like Europe and South America might limit growth in emerging high-demand markets"
+            },
+            {
+              "index_id": "2",
+              "name": "Lack of partnerships with local companies in new regions hinders expansion by making it difficult to navigate regulations and build relationships"
+            }
+          ]
+        },
+        {
+          "key": "OPPORTUNITIES",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Leveraging their diverse product range beyond government projects can propel them into commercial shipbuilding and repair"
+            },
+            {
+              "index_id": "2",
+              "name": "Strategic partnerships in maritime tech or shipyards can expand service offerings and market reach"
+            }
+          ]
+        },
+        {
+          "key": "THREAT",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Competitive government shipbuilding market can lead to tight margins due to price pressure."
+            },
+            {
+              "index_id": "2",
+              "name": "Unpredictable government funding can cause delays or cancellations, impacting DMC's revenue stream"
+            }
+          ]
+        }
+      ],
+      "company_overview": [
+        {
+          "_id": {
+            "$oid": "66bb32220d30944339e4c15e"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Headquarters</b>:</span> <span lang=\"EN-US\">Gorinchem, South Holland</span><span class=\"BoldTextChar\">,</span> <span lang=\"EN-US\">Netherlands</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Founded</b>:</span> <span lang=\"EN-US\">1927<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Workforce</b>:</span> <span lang=\"EN-US\">~12500 employes</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Primary Industry</b>: </span><span lang=\"EN-US\">Damen\nspecializes in shipbuilding and ship repair.<b><o:p></o:p></b></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\">Company Working: </span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:\n130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:minor-latin;\nmso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:minor-latin;\nmso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Over 150 years, Damen\nMarine Components (DMC) has been a global leader in maritime components. They\ndesign and manufacture rudders, steering systems, winches, and more for all\nvessel types. DMC prioritizes efficiency with energy-saving solutions like\nlow-drag rudders. They offer a variety of rudders, from high-speed solutions\nfor large ships to maneuverable types for fishing boats. All rudders are\nmeticulously designed and tested for exceptional performance.&nbsp; DMC's steering systems, both simple and\ncomplex, are built for precision and reliability. Their winches are designed\nfor tough jobs like anchoring and towing, trusted by maritime professionals\nworldwide. Damen Anchor and Chain Factory (AKF), a subsidiary of DMC, provides\nhigh-quality anchors and chains built to endure harsh conditions. With a vast\nstock available, they offer a diverse selection to meet each client's needs.\nDMC is a one-stop shop for all your vessel's core components. Their focus on\ninnovation, quality, and efficiency makes them a valuable partner for maritime\nbusinesses worldwide</span>"
+          }
+        }
+      ],
+      "key_development": [
+        {
+          "_id": {
+            "$oid": "66bb33df0d30944339e4c15f"
+          },
+          "order_id": 1,
+          "type": "TABLE",
+          "data": {
+            "title": "Damen Shipyard : Key Developments",
+            "source": "Press Releases and MRFR Analysis",
+            "rows": 7,
+            "columns": [
+              "Date",
+              "Approach",
+              "Development"
+            ],
+            "dataStore": [
+              {
+                "Date": "2024 June",
+                "Approach": "Products Launch",
+                "Development": "In June, the company introduced an offshore charging solution for fully electric crew transfer vessel (CTV)."
+              },
+              {
+                "Date": "2024 June",
+                "Approach": "Partnership",
+                "Development": "In June, the company signed a contract with Portland Harbour Authority to deliver Damen ASD Tug 2111, one of its latest tugs."
+              },
+              {
+                "Date": "2024 June",
+                "Approach": "Products Launch",
+                "Development": "In June, the company launched the fully electric Fast Crew Supplier (FCS) 3210 E."
+              },
+              {
+                "Date": "2024 May",
+                "Approach": "Expansion",
+                "Development": "Damen Marine Components (DMC) opened a new, state-of-the-art office in Hamburg, Germany. This move reflects their focus on sustainability and innovation, with the new space boasting eco-friendly features and a modern design."
+              },
+              {
+                "Date": "2023 July",
+                "Approach": "Product Launch",
+                "Development": "Damen Marine Components provides custom-built rudders for the biggest ever Pure Car and Truck Carriers (ships for vehicles). These rudders will be especially efficient due to their design (Asymmetric Rudder Technology) and additional components (Silent Bulb) that reduce fuel consumption and noise."
+              },
+              {
+                "Date": "2023 March",
+                "Approach": "Product Launch",
+                "Development": "Damen Marine Components provided a special rudder and steering gear system for a new Norwegian research vessel. Their Barke flap rudder offers excellent maneuverability, low noise, and fuel efficiency, ideal for research activities."
+              },
+              {
+                "Date": "2023 February",
+                "Approach": "Product Launch",
+                "Development": "Damen Marine Components (DMC) successfully showcased their new \"smart dock winches\" during the controlled towage of the massive cruise ship Emerald Princess at the Damen Shiprepair Rotterdam dock. These winches were specifically designed for the dock, which is 405 meters long and 90 meters wide."
+              }
+            ]
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "_id": {
+            "$oid": "66bb34930d30944339e4c161"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Damen Marine\nComponents (DMC) has been continuously striving to solidify its position as a\nleader in the competitive maritime component industry.&nbsp; One key strategy has been leveraging their\ndiverse product range to target commercial shipbuilding and repair markets\nbeyond government projects.&nbsp; This focus\non market diversification complements their commitment to sustainability.&nbsp; DMC has been promoting existing\nenergy-efficient solutions like the Optima Nozzle, while also continuously\ninvesting in R&amp;D for new eco-friendly technologies to meet the growing\ngreen demands of the industry.&nbsp;\nFurthermore, DMC has been embracing digitalization and automation to\nenhance both efficiency and the value proposition they offer clients.&nbsp; Strategic partnerships with maritime\ntechnology companies or shipyards have also been a cornerstone of their growth\nstrategy, allowing them to expand service offerings and access new markets.&nbsp; To build trust with investors and partners,\nDMC has also been increasing transparency regarding their financials and\ninternal operations.&nbsp; Finally, they have\nbeen pursuing targeted regional expansion through partnerships with local\ncompanies, unlocking high-growth markets and ensuring their long-term,\nsustainable growth</span>"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66bb35c80d30944339e4c163"
+      },
+      "company_id": {
+        "$oid": "66bb35c60d30944339e4c162"
+      },
+      "company_name": "Wartsila",
+      "swot_analysis": [
+        {
+          "key": "STRENGTH",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Wärtsilä's broad portfolio of engines, propulsion systems, and emission abatement technologies positions them as a one-stop shop for customer decarbonization needs"
+            },
+            {
+              "index_id": "2",
+              "name": "Strong core business alignment with decarbonization trend positions Wärtsilä for growth, with a roadmap to a 12% operating margin demonstrating financial strength and strategic focus"
+            }
+          ]
+        },
+        {
+          "key": "WEAKNESS",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Slow market adoption of decarbonization solutions due to external factors"
+            },
+            {
+              "index_id": "2",
+              "name": "The congested shipyards in China and South Korea could cause delays and price increases for new ships, potentially impacting Wärtsilä's sales of new equipment"
+            }
+          ]
+        },
+        {
+          "key": "OPPORTUNITIES",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "The increasing customer interest in long-term service agreements presents a significant opportunity. Expanding these agreements can lead to recurring revenue and stronger customer relationships"
+            },
+            {
+              "index_id": "2",
+              "name": "Wärtsilä boasts a customer renewal rate of around 90% for service agreements, indicating high customer satisfaction and loyalty. This provides a strong base for future service growth"
+            }
+          ]
+        },
+        {
+          "key": "THREAT",
+          "value": [
+            {
+              "index_id": "1",
+              "name": "Uncertainty surrounding investments in new ship capacity and renewable energy infrastructure could limit Wärtsilä's market opportunities"
+            },
+            {
+              "index_id": "2",
+              "name": "If competitors develop and commercialize decarbonization technologies faster than Wärtsilä, they could lose their competitive edge"
+            }
+          ]
+        }
+      ],
+      "company_overview": [
+        {
+          "_id": {
+            "$oid": "66bb35fd0d30944339e4c164"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Headquarters</b>:</span> <span lang=\"EN-US\">Helsinki, Finland</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Founded</b>:</span> <span lang=\"EN-US\">1834<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Workforce</b>:</span> <span lang=\"EN-US\">~ 17 800 employes</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Primary Industry</b>: <o:p></o:p></span></p>\n\n<p class=\"MsoListParagraphCxSpFirst\" style=\"text-indent:-18.0pt;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span lang=\"EN-US\" style=\"font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:\nSymbol;mso-bidi-font-weight:bold\">·<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n</span></span><!--[endif]--><span lang=\"EN-US\">Marine Industry <o:p></o:p></span></p>\n\n<p class=\"MsoListParagraphCxSpLast\" style=\"text-indent:-18.0pt;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span lang=\"EN-US\" style=\"font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:\nSymbol;mso-bidi-font-weight:bold\">·<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n</span></span><!--[endif]--><span lang=\"EN-US\">Energy Industry<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Working</b>: <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Wärtsilä is a global leader in innovative\ntechnologies and lifecycle solutions for the marine and energy markets. Their\nfocus lies in creating sustainable solutions that improve both environmental\nand economic performance for their customers. With a workforce of over 17,800 spreads\nacross 280 locations in 79 countries, Wärtsilä has a significant global\npresence. Innovation in sustainable technologies and services is a core\nprinciple. They aim to help customers reduce their environmental impact while\nmaintaining economic viability.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"line-height:normal\"><span lang=\"EN-US\">The\ncompany operates in two main business areas:<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"line-height:normal\"><span lang=\"EN-US\" style=\"mso-bidi-font-size:10.0pt;mso-ascii-font-family:&quot;Roboto Condensed&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;\nmso-hansi-font-family:&quot;Roboto Condensed&quot;;mso-hansi-theme-font:minor-latin;\nmso-bidi-font-family:Arial;color:#1F1F1F;border:none windowtext 1.0pt;\nmso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-IN\">Wärtsilä\nEnergy: </span><span lang=\"EN-US\">Provides solutions for the power sector,\nincluding flexible power plants, energy storage, and lifecycle services. Their\nengines are designed to run on sustainable fuels, promoting decarbonization.</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"line-height:normal\"><span lang=\"EN-US\" style=\"mso-bidi-font-size:10.0pt;mso-ascii-font-family:&quot;Roboto Condensed&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;\nmso-hansi-font-family:&quot;Roboto Condensed&quot;;mso-hansi-theme-font:minor-latin;\nmso-bidi-font-family:Arial;color:#1F1F1F;border:none windowtext 1.0pt;\nmso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-IN\">Wärtsilä\nMarine:</span><span lang=\"EN-US\" style=\"font-size:12.0pt;mso-ascii-font-family:\n&quot;Roboto Condensed&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\n&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Roboto Condensed&quot;;mso-hansi-theme-font:\nminor-latin;mso-bidi-font-family:Arial;color:#1F1F1F;border:none windowtext 1.0pt;\nmso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-IN\"> </span><span lang=\"EN-US\">Offers\na wide range of products and services for the marine industry, including\nengines, digital technologies, propulsion systems, and lifecycle services.\nTheir focus is on efficiency, reliability, safety, and environmental\nperformance for ships.<o:p></o:p></span></p>\n\n<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:\n130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:minor-latin;\nmso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:minor-latin;\nmso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Wärtsilä Portfolio\nBusiness manages independent business units to improve performance and unlock\nvalue through strategic decisions like divestments. Overall, Wärtsilä positions\nitself as a key player in driving sustainable transformation within the marine\nand energy sectors. Their dedication to innovation, global reach, and focus on\nenvironmental responsibility solidify their leading position</span>"
+          }
+        }
+      ],
+      "key_development": [
+        {
+          "_id": {
+            "$oid": "66bb409b0d30944339e4c168"
+          },
+          "order_id": 1,
+          "type": "TABLE",
+          "data": {
+            "title": "Wartsila",
+            "source": "Press Releases and MRFR Analysis",
+            "rows": 4,
+            "columns": [
+              "Date",
+              "Approach",
+              "Development"
+            ],
+            "dataStore": [
+              {
+                "Date": "July 2024",
+                "Approach": "Partnership",
+                "Development": "Wärtsilä signed a six-year agreement with Nautica Ship Management to optimize the performance of exhaust gas cleaning systems on two of their feeder container vessels. This ensures compliance with environmental regulations and allows for remote monitoring and troubleshooting, minimizing downtime. Wärtsilä's expertise and lifecycle support will benefit Nautica by reducing costs and improving overall efficiency."
+              },
+              {
+                "Date": "May 2024",
+                "Approach": "Product Launch",
+                "Development": "Wärtsilä, has introduced its latest innovation - the Wärtsilä 25 engine. This medium-speed 4-stroke engine is designed to be a game-changer for fishing vessels. The Wärtsilä 25 positions itself as a significant advancement in sustainable and efficient marine engine technology, catering to the evolving needs of the fishing industry."
+              },
+              {
+                "Date": "April 2024",
+                "Approach": "Partnership",
+                "Development": "Wärtsilä will supply methanol-fueled auxiliary engines for twelve new container vessels being built for COSCO Shipping Lines and Orient Overseas Container Line. This represents the largest methanol-fueled newbuild order in China's maritime sector to date. This deal positions Wärtsilä as a leader in decarbonization efforts within the maritime industry, with methanol seen as a promising sustainable fuel alternative."
+              },
+              {
+                "Date": "March 2024",
+                "Approach": "Partnership",
+                "Development": "Wärtsilä, has partnered with Elliott Bay Design Group (EBDG) to develop the CHAMP barge - a floating mobile power platform that uses methanol fuel. This collaboration aims to tackle port emissions in North America by providing a cost-effective solution for ships lacking access to shore power. This project aligns with the sustainability goals of many North American ports and demonstrates Wärtsilä and EBDG's commitment to providing practical solutions for a greener maritime industry."
+              }
+            ]
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "_id": {
+            "$oid": "66bf1b8c0d30944339e4c16e"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Wartsila's. Wärtsilä's\nstrategy, \"The Wärtsilä Way\", outlines their path towards becoming a\nleader in decarbonization for the marine and energy sectors. Here's a breakdown\nof their key focus areas: Shaping the Decarbonization of Marine and Energy\nreflects Wärtsilä's long-term ambition to be a key player in driving\nsustainable solutions for these industries. Wärtsilä emphasizes customer\nsuccess by understanding their needs, providing reliable and efficient\nsolutions, and fostering strong partnerships. They value attracting and\ndeveloping high-performing teams while fostering a culture of continuous\nimprovement and safety. Wärtsilä aims to achieve profitable growth by focusing\non key areas like service offerings and decarbonization solutions</span>"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66cef71c0d30944339e4c287"
+      },
+      "company_id": {
+        "$oid": "63ef1050d5129d13bc5aedf5"
+      },
+      "company_name": "LELY",
+      "swot_analysis": [],
+      "company_overview": [
+        {
+          "_id": {
+            "$oid": "66cef7700d30944339e4c28c"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Headquarters</b>:</span> <span lang=\"EN-US\">Maassluis, The Netherlands</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Founded</b>:</span> <span lang=\"EN-US\">1948<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Workforce</b>:</span> <span lang=\"EN-US\">~ </span><span lang=\"EN-US\">2,300\n</span><span lang=\"EN-US\">employes</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Primary Industry</b>: </span><span lang=\"EN-US\">Agricultural\nMachinery</span><span class=\"BoldTextChar\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span class=\"BoldTextChar\"><b>Company Working</b>: <o:p></o:p></span></p>\n\n<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:\n130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:minor-latin;\nmso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:minor-latin;\nmso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Lely is a frontrunner\nin the agricultural machinery space, particularly well-known for their\nadvancements in dairy farming equipment. Their dedication to innovation is\nevident in their team of 2,300 employees and 3 R&amp;D departments that\ntirelessly work on developing new technologies to improve dairy farm\noperations. With a focus on delivering the best possible results for their\ncustomers, Lely leverages its expertise across two production facilities to\nmanufacture their solutions.&nbsp; The\ncompany's commitment to research and development is further underscored by\ntheir impressive portfolio of over 1,500 patents for their inventions. This\ndedication to innovation translates to tangible results, with Lely's solutions\nbeing used by dairy farmers in over 50 countries around the world.&nbsp; The reach and success of their approach are\nreflected in their revenue of €704 million</span>"
+          }
+        }
+      ],
+      "key_development": [
+        {
+          "_id": {
+            "$oid": "66cefaba0d30944339e4c28e"
+          },
+          "order_id": 1,
+          "type": "TABLE",
+          "data": {
+            "title": "Lely: Key Developments",
+            "source": "MRFR Analysis",
+            "rows": 6,
+            "columns": [
+              "Date",
+              "Approach",
+              "Development"
+            ],
+            "dataStore": [
+              {
+                "Date": "October 2023",
+                "Approach": "Partnership",
+                "Development": "Lely partnered with Acorn to offset their CO2 emissions in 2023 (7,200 tons) and aims to be CO2 neutral by 2030. Lely buys Carbon Removal Units (CRUs) from Acorn, which removes CO2 from the atmosphere through trees planted by small-scale farmers. This collaboration benefits both Lely (achieving CO2 neutrality) and farmers (additional income and promoting sustainable agriculture). Lely sees this as a step towards their vision of a sustainable dairy farming sector."
+              },
+              {
+                "Date": "October 2023",
+                "Approach": "Partnership",
+                "Development": "Lely, partnered with Konrad Pumpe, a plant engineering company, to offer more flexibility in automatic feeding systems for farms. The partnership allows Lely to add Konrad Pumpe's dosing systems to their feeding systems, enabling more precise and efficient feed distribution for farms with large herds. This alliance will benefit both companies: Lely can expand their product offerings and Konrad Pumpe can reach a wider market."
+              },
+              {
+                "Date": "August 2023",
+                "Approach": "Product Launch",
+                "Development": "Lely launched a new udder care spray, Lely Quaress Fovum, for dairy farms. It disinfects and improves teat skin condition, which is crucial for udder health. The product contains ingredients that hydrate and regenerate teat skin, keeping it healthy and protecting cows from bacteria."
+              },
+              {
+                "Date": "June 2023",
+                "Approach": "Product Launch",
+                "Development": "A new, improved Lely Orbiter milk processing system is now being used by a farmer in Netherlands. This system allows farmers to bottle and sell their milk directly, under their own brand \"Mijn Melk\". Consumers are increasingly interested in locally produced and fresh dairy products. This system benefits both farmers and consumers."
+              },
+              {
+                "Date": "September 2022",
+                "Approach": "Product Launch",
+                "Development": "Lely released a new generation of Lely Juno, an automatic feed pusher for dairy farms. The new Juno focuses on reducing running costs for farmers with features like improved wheels and easier serviceability. This allows for more frequent feed pushing which benefits cow health, production and reduces wasted feed. Overall, the new Lely Juno helps farms save money and be more productive."
+              },
+              {
+                "Date": "June 2022",
+                "Approach": "Expansion",
+                "Development": "Lely, a dairy automation company, unveiled its new North American business complex, Lely Park, in Pella, Iowa. This investment aims to create a sustainable future in farming and meet the growing needs of North American farmers. Lely Park will serve as a hub for innovation and collaboration, focusing on developing solutions for the next generation of dairy farmers."
+              }
+            ]
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "_id": {
+            "$oid": "66cefc840d30944339e4c28f"
+          },
+          "order_id": 1,
+          "type": "TEXT",
+          "data": {
+            "content": "<span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:130%;font-family:&quot;Roboto Condensed&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:&quot;Roboto Condensed&quot;;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Lely's vision hinges\non three key strategies. Initially, sustainability is a major focus, with the\ncompany committed to developing long-lasting products that minimize\nenvironmental impact. This includes energy-efficient technologies that reduce\noperational costs for farms while being kind to the planet. Furthermore, Lely\nprioritizes farm profitability. By creating innovative products and services\nthat improve traditional farming practices, they aim to empower farmers with\ncost savings and increased efficiency, ultimately boosting their bottom line.\nFinally, user-centric design is paramount. Lely strives to develop reliable,\nwell-designed products that are easy to operate, ensuring a pleasurable user\nexperience for both farmers and contractors</span>"
+          }
+        }
+      ]
+    }
+  ],
+  "overlaps": [],
+  "youtubeContents": [],
+  "createdAt": {
+    "$date": "2024-08-08T11:01:48.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-28T10:31:32.765Z"
+  },
+  "__v": 0,
+  "searching_title": "trial chemical"
+}
